@@ -1,0 +1,10 @@
+D:\Personal_Pro\Belatrix\JobLogger\JobLoggerTests\bin\Debug\JobLoggerTests.dll
+D:\Personal_Pro\Belatrix\JobLogger\JobLoggerTests\bin\Debug\JobLoggerTests.pdb
+D:\Personal_Pro\Belatrix\JobLogger\JobLoggerTests\bin\Debug\JobLogger.exe
+D:\Personal_Pro\Belatrix\JobLogger\JobLoggerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Personal_Pro\Belatrix\JobLogger\JobLoggerTests\bin\Debug\JobLogger.pdb
+D:\Personal_Pro\Belatrix\JobLogger\JobLoggerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Personal_Pro\Belatrix\JobLogger\JobLoggerTests\obj\Debug\JobLoggerTests.csprojResolveAssemblyReference.cache
+D:\Personal_Pro\Belatrix\JobLogger\JobLoggerTests\obj\Debug\JobLoggerTests.dll
+D:\Personal_Pro\Belatrix\JobLogger\JobLoggerTests\obj\Debug\JobLoggerTests.pdb
+D:\Personal_Pro\Belatrix\JobLogger\JobLoggerTests\bin\Debug\JobLoggerTests.dll.config

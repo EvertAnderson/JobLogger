@@ -1,0 +1,6 @@
+D:\Personal_Pro\Belatrix\JobLogger\JobLogger\bin\Debug\JobLogger.exe.config
+D:\Personal_Pro\Belatrix\JobLogger\JobLogger\bin\Debug\JobLogger.exe
+D:\Personal_Pro\Belatrix\JobLogger\JobLogger\bin\Debug\JobLogger.pdb
+D:\Personal_Pro\Belatrix\JobLogger\JobLogger\obj\Debug\JobLogger.csprojResolveAssemblyReference.cache
+D:\Personal_Pro\Belatrix\JobLogger\JobLogger\obj\Debug\JobLogger.exe
+D:\Personal_Pro\Belatrix\JobLogger\JobLogger\obj\Debug\JobLogger.pdb
